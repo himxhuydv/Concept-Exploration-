@@ -1,0 +1,1 @@
+when the light travels from the sun any object it contain photons with it
