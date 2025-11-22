@@ -1,0 +1,115 @@
+1. Enables complex model training
+
+Machine Learning models require massive calculations (matrix multiplications, backpropagation, optimization).
+Because of Moore’s Law:
+
+1.Processors became faster
+
+2.More operations per second became possible
+
+3.Deep neural networks became practical
+
+Without this hardware growth, models like deep learning and transformers would be impossible to train.
+Then what changed? (Why they became practical)
+1. More computing power (Moore’s Law + GPUs)
+
+Powerful GPUs could perform millions of calculations in parallel.
+
+This made it possible to:
+
+Train very deep models
+
+Do matrix operations fast
+
+Run backpropagation efficiently
+
+2. Big Data availability
+
+Internet + digital storage created massive datasets:
+
+Images (ImageNet)
+
+Speech
+
+Text
+
+Deep networks need lots of data to learn patterns. Now they had it.
+
+3. Better algorithms
+
+New techniques solved old problems:
+
+ReLU activation (fixed vanishing gradient)
+
+Dropout (reduced overfitting)
+
+Batch Normalization (faster training)
+
+Adam optimizer (stable learning)
+
+These made learning reliable.
+
+4. Software frameworks
+
+Libraries like:
+
+TensorFlow
+
+PyTorch
+
+Keras
+
+Made building deep networks easy and accessible.
+
+So what was “happening” in simple words?
+
+This was happening:
+
+Computers became faster ✔️
+
+Data became huge ✔️
+
+Training methods improved ✔️
+
+Errors decreased ✔️
+
+Accuracy increased ✔️
+
+Result:
+👉 Deep neural networks started giving better results than traditional methods.
+
+That is when they became PRACTICAL.
+
+Real-world proof it became practical
+
+After this shift, we saw:
+
+Face recognition
+
+Voice assistants
+
+Google Translate
+
+Self-driving vision
+
+ChatGPT-like systems
+
+All powered by deep neural networks.
+
+Very simple understanding
+
+Before:
+
+Deep Neural Network = Good idea but too hard to use
+
+Now:
+
+Deep Neural Network = Powerful system that solves real problems
+
+One-line explanation for notes/exam
+
+Deep neural networks became practical when advancements in computing power, large data availability, and improved training algorithms made it possible to train deep models efficiently and reliably for real-world applications.
+
+If you want, I can also explain:
+
+✅ With a timeline
