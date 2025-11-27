@@ -1,0 +1,3 @@
+# Neural Network or Artificial Neural Network 
+It's inspired by the structure and function of the *biological brain*.Inspired by the idea or each neuron interconnected to each other.adaptive conncections to create system that can recognise patterns from the data (what is the context of talking of the adaptive connections?-the dynamially adjusting the connection parameter in term of the pattern analyis on totally new data)
+which have neuron in it.Each neuron passes it's information from one neuron to further next neuron.
