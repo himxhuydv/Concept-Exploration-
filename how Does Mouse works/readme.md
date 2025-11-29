@@ -1,0 +1,1 @@
+# How does mouse work? how does it takes all the records of movement even we do slightly movement.and how does that movement get's converted in to the movement of the cursor and by clicking on the left and right key how does it register and get's open the app.
