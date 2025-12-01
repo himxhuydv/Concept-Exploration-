@@ -4,7 +4,7 @@ In this PCA we will be using algorithm like eigen values ,eigen vector to reduce
 ### How does the eigen vector and the eigen values help in the dimension reduction.
 So,they exactly do is they tell guide the PCA which feature to keep and which feature to discard.
 **let's take a example you have 100 dimension**
-**Then you tell the PCA to keep 10 dimension*
+**Then you tell the PCA to keep 10 dimension**
 **So,PCA automatically understand remove the 90 dimemsion**
 ## DATA SPREAD 
 so there is this termology Data spread.
