@@ -5,7 +5,7 @@
 ```Raw->EDA->Preprocessing->Feature Engineering->Model```
 So,that  why we need EDA.  
 Data Anaylsis is basically summeries of the data in very deep.Understanding the data deeplying before giving it to the machine learning model for traning,in any case you can say understanding any errors in the data any flaws in the data that deep search is called EDA(Exploratory Data Analyis).
-In this what deep analysis we do:-
+In this what deep analysis we can  do:-
 *1.Where are the missing values in the data.*
 *2.Which type of scaling required or which type of encoding is required.*
 *3.Is feature scalling will be usefull or not.*
